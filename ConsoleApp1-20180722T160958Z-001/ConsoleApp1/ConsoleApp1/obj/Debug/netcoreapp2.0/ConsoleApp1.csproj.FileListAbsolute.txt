@@ -1,0 +1,11 @@
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+\\ict.ru.ac.za\DFS\UGHomes\g16l2274\My Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
